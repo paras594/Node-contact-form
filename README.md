@@ -6,7 +6,7 @@ Node.js contact form to receive emails from your website. Server-side validation
 
 ## Details 
 
-This is complete contact form project. It uses Nodemail in conjunction with Mailgun service to handle email delivery through backend. To use this form you need to create account on [Mailgun](https://www.mailgun.com/). Maingun will provide the api-key and domain which you can add in .env file in project. Then you can simply require the sendMail function from mail.js file and start receiving emails. 
+This is complete contact form project. It uses Nodemail in conjunction with Mailgun service to handle email delivery through backend. To use this form you need to create account on [Mailgun](https://www.mailgun.com/). Mailgun will provide the api-key and domain which you can add in .env file in project. Then you can simply require the sendMail function from mail.js file from libs folder and start receiving emails. 
 
 __Api-key and domain setup in .env file__
 
