@@ -1,0 +1,10 @@
+html {
+}
+
+#contact-form {
+	width: 400px;
+}
+
+#contact-form textarea {
+	height: 8rem;
+}
